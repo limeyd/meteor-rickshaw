@@ -1,0 +1,10 @@
+{
+  "name": "rickshaw",
+  "description": "JavaScript toolkit for creating interactive real-time graphs",
+  "homepage": "https://github.com/limeyd/meteor-rickshaw",
+  "author": "Darren Pearce <limeyd@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/limeyd/meteor-rickshaw.git",
+  "packages": {
+  }
+}
